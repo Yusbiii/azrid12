@@ -1,0 +1,6 @@
+{
+  "name": "MQTT 4-Relay Controller",
+  "description": "A web application for controlling 4 relay lamps with voice commands and dual-variation controllers via the MyQTTHub broker.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
